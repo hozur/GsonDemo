@@ -1,3 +1,4 @@
 # GsonDemo
 
-a demo for Gson
+A demo for Gson
+very very Simple String.Integer
